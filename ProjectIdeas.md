@@ -4,3 +4,4 @@ Some project ideas I mean to implement some day
   - Python script to run on a cluster where instructions are pushed from node to node whenever they turn on
   - StackExchange moderator ping script
   - Integrate MathToTeX into StackExchange
+   -nice
